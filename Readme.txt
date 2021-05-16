@@ -1,3 +1,6 @@
+The code takes sequence of snapshots as input and throws output as predicted time steps. It is many to many sequence. Further details  can be obtained from the pdf files. 
+
+
 Versions used
 
 
